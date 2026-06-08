@@ -1,0 +1,8 @@
+name: longing
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The felt distance between what is and what should be, aimed at the thing worth reaching for.
+dependsOn: [hope, truth, love]
